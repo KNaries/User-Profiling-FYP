@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Insight Pro</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        body {
+            background-color: #fce4ec; /* Soft pastel pink background */
+            color: #555; /* Slightly darker text for contrast */
+            height: 100vh;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: 'Arial', sans-serif;
+        }
+
+        .main-container {
+            text-align: center;
+            background-color: #e1c1cc; /* Lighter pastel pink */
+            border-radius: 10px;
+            padding: 40px 20px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* Subtle shadow */
+            width: 100%;
+            max-width: 400px;
+            opacity: 0;
+            animation: fadeIn 1s ease-in-out forwards;
+        }
+
+        h1 {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 30px;
+            color: #880e4f; /* Darker pink shade for the text */
+        }
+
+        .search-box {
+            display: block;
+        }
+
+        .search-box input {
+            width: 100%;
+            height: 45px;
+            border: 2px solid #f4dee5; /* Border with darker pink shade */
+            border-radius: 6px;
+            padding-left: 15px;
+            margin-bottom: 15px;
+            font-size: 16px;
+            color: #0a0809; /* Text color in dark pink */
+            background-color: #fce4ec; /* Background inside input */
+        }
+
+        .search-box input:focus {
+            border-color: #ec407a; /* Highlight border on focus */
+            outline: none;
+        }
+
+        .search-box button {
+            width: 100%;
+            height: 45px;
+            background-color: #ec407a; /* Button color */
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            color: white;
+            font-size: 16px;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+
+        .search-box button:hover {
+            background-color: #d81b60; /* Darker button on hover */
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="main-container">
+        <h1>Social Insight Pro</h1>
+        
+        <div class="search-box" id="searchBox">
+            <input type="text" placeholder="Enter username" id="usernameInput">
+            <button type="button" onclick="submitUsername()">Search</button>
+        </div>
+    
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

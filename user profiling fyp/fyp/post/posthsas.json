@@ -1,0 +1,777 @@
+[
+    {
+        "id": "10160980433862182",
+        "creationTime": "2024-09-26T07:58:52.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid0GSX4nTNs1iNqhzDZeXGiWigzaPvfDTVb7TScB1k6aGZnHMJY8cecSsTCeSGnaJUzl",
+        "text": "مسله توله دا ده چې مونږ کدوان هله پوهيږو چې تاوان اومومو.",
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "friends",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 2,
+            "reactionsCount": 3,
+            "topLevelComment": "دا جنگ د ڈالر جنگ دے زمونگ خپل خو نہ دے\nمونگہ کدوان ھلہ پوھیگو چی تاوان اومومو ھاھا",
+            "topLevelCommentAuthor": {
+                "typename": "User",
+                "name": "Ibrar Ahmad",
+                "gender": "MALE",
+                "url": "https://www.facebook.com/ibrar.ahmad.94651",
+                "isVerified": false
+            }
+        }
+    },
+    {
+        "id": "10160980421182182",
+        "creationTime": "2024-09-26T07:51:35.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid0uXTUpwR65XxJoCjzm46kL7u7jaEKFRS7eXMAQJ92WC7d1QhHmgBX92SpPwife1pl",
+        "text": "د سوات غيرتي اولسه! د مسلې هم دغه يو حل دے کوم چې درتــــه ايوب اشاړي صېب وښودو. نور مو خپله خوښه.\nچې ونه وهي په دواړه لاسه تورې\nچا ملکونه په ميراث موندلي نه دي... (خ خ خ)",
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "everyone",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 10,
+            "reactionsCount": 40,
+            "topLevelComment": null,
+            "topLevelCommentAuthor": {
+                "typename": "User",
+                "name": "Hassan Khan",
+                "gender": "MALE",
+                "url": "https://www.facebook.com/hassanjani88",
+                "isVerified": false
+            }
+        }
+    },
+    {
+        "id": "10160979354352182",
+        "creationTime": "2024-09-25T22:53:46.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid02Yiy2NfnaHEBcMGe31pPT9ozRJBLvHytCrQ2yJV4gM2s2BMhjFgSUTMG7C3Xbr2dfl",
+        "text": null,
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "friends",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 0,
+            "reactionsCount": 0,
+            "topLevelComment": null,
+            "topLevelCommentAuthor": {
+                "typename": "Unknown",
+                "name": "Unknown",
+                "gender": "Unknown",
+                "url": "Unknown",
+                "isVerified": 0
+            }
+        }
+    },
+    {
+        "id": "10160979229922182",
+        "creationTime": "2024-09-25T22:02:31.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid02fPgNtKJXdoauEudj8QCJZ24GkbN8jvg55oJkLSMdnT19jwvRZXYWEUqSJZ5da6Tpl",
+        "text": null,
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "friends",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 12,
+            "reactionsCount": 14,
+            "topLevelComment": null,
+            "topLevelCommentAuthor": {
+                "typename": "Unknown",
+                "name": "Unknown",
+                "gender": "Unknown",
+                "url": "Unknown",
+                "isVerified": 0
+            }
+        }
+    },
+    {
+        "id": "10160977936642182",
+        "creationTime": "2024-09-25T12:36:25.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid0JQeGP1SFKLHwMoPE5BYAhvHMwocnPMn6TQ2ZAgh2hqP8ofzMNZ4xPZr8tcmLNyATl",
+        "text": "Muslim Ummah... A name of Shame!",
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "everyone",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 0,
+            "reactionsCount": 2,
+            "topLevelComment": null,
+            "topLevelCommentAuthor": {
+                "typename": "Unknown",
+                "name": "Unknown",
+                "gender": "Unknown",
+                "url": "Unknown",
+                "isVerified": 0
+            }
+        }
+    },
+    {
+        "id": "10160976876792182",
+        "creationTime": "2024-09-25T03:11:09.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid02MyV8WQN8Ntkve9PAR66WgNNHJDjeGYihofR1431W5xCCqPydWqpcxNZvibfTtJDWl",
+        "text": "اے په ښادو کې ورکه ياره احساس مه هېروه\nدا ليونے به دې په سختو کې پکار راشي...\n\nايوب اشاړي واقعي د غېرت او د ننګ نوم دے",
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "everyone",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 12,
+            "reactionsCount": 108,
+            "topLevelComment": null,
+            "topLevelCommentAuthor": {
+                "typename": "Unknown",
+                "name": "Unknown",
+                "gender": "Unknown",
+                "url": "Unknown",
+                "isVerified": 0
+            }
+        }
+    },
+    {
+        "id": "10160975178687182",
+        "creationTime": "2024-09-24T16:18:24.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid033u4uYoeeSUjNBgnDi1i1Ncvcp96jsB8DuW5zKVativVoFFgpLvVeNNd3NprLnJjnl",
+        "text": "شعر 💙",
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "friends",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 1,
+            "reactionsCount": 17,
+            "topLevelComment": "مننه سرجي 🙏",
+            "topLevelCommentAuthor": {
+                "typename": "User",
+                "name": "پتیال یوسفزے",
+                "gender": "MALE",
+                "url": "https://www.facebook.com/profile.php?id=100068190728956",
+                "isVerified": false
+            }
+        }
+    },
+    {
+        "id": "10160972536947182",
+        "creationTime": "2024-09-23T19:24:33.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid0xu7gEi65DB24HRuLNXzy8KjacV3JhWJiCFjHtCUjW9EHzdG3VqWqeLEvxrexumg5l",
+        "text": "تشې قيصې به د أحد او جنګ بدر کوو\nنور که هر څه راسره کيږي مونږ به صبر کوو\n\nحسينه! ستا د قربانۍ قدر د خداۍ سره دے\nمونږه نه پيژنو دا شے، او نه ئې قدر کوو\n\nزمونږ انجام سره غرض نشته خو وخت تيروو\nپه معروف نهي او په نهي باندې امر کوو\n\n*که په اسلام کې علم فرض دے په نر او ښځه\nخو مونږ په ښځو علم نه کوو، مونږ ستر کوو*\n\nد خپل بادار مخالفین برداشت کولې نه شو\nیا به خله سمه خوزه وي يا به پرې جبر کوو\n\nڅو چې ژوندے وي قصيدې به ئې په چغه وايو\nشي که وفات مشاعرې به ئې په قبر کوو\n\nهر څه جې کړي راسره کړي به، دا نازبين دے زمونږ\nمونږ د پخوا نه احترام د داسې مشر کوو....!\n\nعبدالرحیم روغانے بابا",
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "everyone",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 3,
+            "reactionsCount": 29,
+            "topLevelComment": null,
+            "topLevelCommentAuthor": {
+                "typename": "Unknown",
+                "name": "Unknown",
+                "gender": "Unknown",
+                "url": "Unknown",
+                "isVerified": 0
+            }
+        }
+    },
+    {
+        "id": "10160972508372182",
+        "creationTime": "2024-09-23T19:11:18.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid0UCKNCUYkz4bZPtnpkusEgZ3ZsUyrkzuF92XAinMeNdvwozZiNB6VqfDCzBaeVNNrl",
+        "text": "ګيره او سر دې اوږده کړي په رواج د نبي\nد دے د پارہ چې شيطان درنه رضا خو نه شي\nد فرښتو جانانه دا خبره ياده ساته\nچرته د سپږو آبادي پکې سيوا خو نه شي",
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "friends",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 4,
+            "reactionsCount": 17,
+            "topLevelComment": null,
+            "topLevelCommentAuthor": {
+                "typename": "User",
+                "name": "Naveed Ahmad",
+                "gender": "MALE",
+                "url": "https://www.facebook.com/profile.php?id=61551793086092",
+                "isVerified": false
+            }
+        }
+    },
+    {
+        "id": "10160972371092182",
+        "creationTime": "2024-09-23T18:09:57.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid02GiTkLMPbSY75DP2TKx1rrtZ3yuJCYESmE14wXu25Z9xnnLSLbxcaa4xqmt3jqSQ5l",
+        "text": "Muslim Ummah... A symbol of Cowardice and Shame !",
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "friends",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 0,
+            "reactionsCount": 0,
+            "topLevelComment": null,
+            "topLevelCommentAuthor": {
+                "typename": "Unknown",
+                "name": "Unknown",
+                "gender": "Unknown",
+                "url": "Unknown",
+                "isVerified": 0
+            }
+        }
+    },
+    {
+        "id": "10160970981032182",
+        "creationTime": "2024-09-23T06:49:54.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid0L2LzptzsrsybkP45RdhTkjyFoMD5QnWdnaKG8QxmRBz1FiJ9HRLkkMr96xSsCzfyl",
+        "text": "مملکت خداداد!",
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "everyone",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 1,
+            "reactionsCount": 17,
+            "topLevelComment": "سب کو پتہ ہے سب کچھ۔ کیا اب بھی ابہام ہے۔",
+            "topLevelCommentAuthor": {
+                "typename": "User",
+                "name": "Osman Ghani Shehab",
+                "gender": "MALE",
+                "url": "https://www.facebook.com/usmanghani.shahab",
+                "isVerified": false
+            }
+        }
+    },
+    {
+        "id": "10160969513907182",
+        "creationTime": "2024-09-22T18:53:47.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid033YD5S6Vh7qBY943WJuE6izChL6NQmh1LJJVN9f546MfinKEB79s3sSfxZRkCqhbFl",
+        "text": null,
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "friends",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 0,
+            "reactionsCount": 2,
+            "topLevelComment": null,
+            "topLevelCommentAuthor": {
+                "typename": "Unknown",
+                "name": "Unknown",
+                "gender": "Unknown",
+                "url": "Unknown",
+                "isVerified": 0
+            }
+        }
+    },
+    {
+        "id": "10160969457612182",
+        "creationTime": "2024-09-22T18:28:27.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid0zdopcobP1D5gHqadXWvgRaeM79h9u6vrTAvSmHxmNmbNfcfiREPbmoyZvdEsiXiWl",
+        "text": "بیا جولائي شوه",
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "friends",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 10,
+            "reactionsCount": 32,
+            "topLevelComment": "Mashee de mashe",
+            "topLevelCommentAuthor": {
+                "typename": "User",
+                "name": "Bakhtyar Khan",
+                "gender": "MALE",
+                "url": "https://www.facebook.com/profile.php?id=100062781092699",
+                "isVerified": false
+            }
+        }
+    },
+    {
+        "id": "10160969296167182",
+        "creationTime": "2024-09-22T17:17:17.000Z",
+        "url": "https://www.facebook.com/reel/1239753420497125/",
+        "text": "#SWAT #tourism #fypシviralシ2024\n#mountains #Topai_Kamar Aziz Khan",
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "everyone",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 23,
+            "reactionsCount": 113,
+            "topLevelComment": "Had.. Bia na mane..",
+            "topLevelCommentAuthor": {
+                "typename": "User",
+                "name": "Aziz Khan",
+                "gender": "MALE",
+                "url": "https://www.facebook.com/aziz.khan.18659041",
+                "isVerified": false
+            }
+        }
+    },
+    {
+        "id": "10160968299257182",
+        "creationTime": "2024-09-22T09:32:38.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid0273fj4tTz72JPiUMa9kBegQ6DSGuhJaKZTYWW6keGDai4Kd8bv1WqCP7S5eeJLj97l",
+        "text": null,
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "friends",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 0,
+            "reactionsCount": 0,
+            "topLevelComment": null,
+            "topLevelCommentAuthor": {
+                "typename": "Unknown",
+                "name": "Unknown",
+                "gender": "Unknown",
+                "url": "Unknown",
+                "isVerified": 0
+            }
+        }
+    },
+    {
+        "id": "10160967733927182",
+        "creationTime": "2024-09-22T03:38:22.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid025Uv1xUHGdNroARh9a5Dx6J8iB5N9jxEXn1byX9Zneu7jvKKKbARYYe8KjX93ur5zl",
+        "text": null,
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "friends",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 2,
+            "reactionsCount": 3,
+            "topLevelComment": "زبردست",
+            "topLevelCommentAuthor": {
+                "typename": "User",
+                "name": "Rashid Ahmad Swati",
+                "gender": "MALE",
+                "url": "https://www.facebook.com/profile.php?id=100008173634604",
+                "isVerified": false
+            }
+        }
+    },
+    {
+        "id": "10160967703282182",
+        "creationTime": "2024-09-22T03:19:35.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid0LjWz9JXurYqjTqRQauT1vWGrkDHmeFTfWDcevFGMy9uBiavT1coGk3fduz7zHBeNl",
+        "text": null,
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "everyone",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 0,
+            "reactionsCount": 1,
+            "topLevelComment": null,
+            "topLevelCommentAuthor": {
+                "typename": "Unknown",
+                "name": "Unknown",
+                "gender": "Unknown",
+                "url": "Unknown",
+                "isVerified": 0
+            }
+        }
+    },
+    {
+        "id": "10160966127757182",
+        "creationTime": "2024-09-21T16:30:03.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid02pfkuxrt7iQRG5cykfy6rJczLeGatfkWWrbgfzpUG73j4RGTjzwLfiWLaGztMv3K7l",
+        "text": "ظواد vs دواد = ض",
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "friends",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 10,
+            "reactionsCount": 29,
+            "topLevelComment": "Da deen tikadaran ye da zana jor kare laka da deen che da dwe da plar meras we aw yobal pe wahe",
+            "topLevelCommentAuthor": {
+                "typename": "User",
+                "name": "Shamsher Ali",
+                "gender": "MALE",
+                "url": "https://www.facebook.com/profile.php?id=100054511735976",
+                "isVerified": false
+            }
+        }
+    },
+    {
+        "id": "10160966060202182",
+        "creationTime": "2024-09-21T16:01:34.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid02bffMhSSKKg2imzrBkkerDGFoaPTjRGFjUvhN4dWq6qfd6t7W3WWHWbwpAPgxWsLdl",
+        "text": null,
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "friends",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 1,
+            "reactionsCount": 16,
+            "topLevelComment": "Ka da Aziz Khan wai os ba landi parmakh prot wo",
+            "topLevelCommentAuthor": {
+                "typename": "User",
+                "name": "Fazal Wahid Khan",
+                "gender": "MALE",
+                "url": "https://www.facebook.com/fazal.wahidkhan.39589",
+                "isVerified": false
+            }
+        }
+    },
+    {
+        "id": "10160966032797182",
+        "creationTime": "2024-09-21T15:49:18.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid0F3V6k5N6ANUhvDATRKG5qaNDLaMtERmbCVvUF74ubfawCv6eUKugeecgvVjuPQVrl",
+        "text": "زۀ خو سائل یم د لفظونو پۀ معنو پوهېږم\nزۀ ټوقه پېژنم، طنز پېژنم، پیغور پېژنم...",
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "everyone",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 1,
+            "reactionsCount": 15,
+            "topLevelComment": "Mashra da background ke warsara da kaliwal shor dera mazai",
+            "topLevelCommentAuthor": {
+                "typename": "User",
+                "name": "M Asif",
+                "gender": "MALE",
+                "url": "https://www.facebook.com/profile.php?id=100075783877013",
+                "isVerified": false
+            }
+        }
+    },
+    {
+        "id": "10160964663442182",
+        "creationTime": "2024-09-21T04:39:21.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid0uvtgzLWb1USo7BHYysWn7YFStNadfkganJ8WLpMohcmMXCAW6BTes8RrNUJby2Cfl",
+        "text": null,
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "everyone",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 0,
+            "reactionsCount": 5,
+            "topLevelComment": null,
+            "topLevelCommentAuthor": {
+                "typename": "Unknown",
+                "name": "Unknown",
+                "gender": "Unknown",
+                "url": "Unknown",
+                "isVerified": 0
+            }
+        }
+    },
+    {
+        "id": "10160963868522182",
+        "creationTime": "2024-09-20T23:00:34.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid0Yei3uzFXWJgZH6eYF9pYqqJQtHgodWjPhuDC8GCxS7H8yGHNe191ncfNtiSwdfjhl",
+        "text": null,
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "friends",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 0,
+            "reactionsCount": 2,
+            "topLevelComment": null,
+            "topLevelCommentAuthor": {
+                "typename": "Unknown",
+                "name": "Unknown",
+                "gender": "Unknown",
+                "url": "Unknown",
+                "isVerified": 0
+            }
+        }
+    },
+    {
+        "id": "10160963375727182",
+        "creationTime": "2024-09-20T19:32:36.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid02qwUTvRgtXKeim2oMe5fzqBGDvFcpyT7QqEXPuMCZtPFtLaXxsEiYagFAXiZrB7qhl",
+        "text": "چې شرمښان پکې د ښکار د پاره ځان پټوي\nدا ګيره نه ده، دا دې مخ هغه واښه کړي دي\nروغانے بابا",
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "friends",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 15,
+            "reactionsCount": 23,
+            "topLevelComment": null,
+            "topLevelCommentAuthor": {
+                "typename": "Unknown",
+                "name": "Unknown",
+                "gender": "Unknown",
+                "url": "Unknown",
+                "isVerified": 0
+            }
+        }
+    },
+    {
+        "id": "10160963333292182",
+        "creationTime": "2024-09-20T19:12:38.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid02tVteb61i25e1NHKmJux5M1tKby3wGkFUECAijeWazcJ229qmoJL2dzvt8ejSrawxl",
+        "text": "دنیا ته تهذيب مونږ ښودلے۔ اباسين یوسفزۍ \nالبته زمونږ نه بيا پخپله هېر شو",
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "friends",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 1,
+            "reactionsCount": 10,
+            "topLevelComment": "Pakhpala kho ba tee khraa otaregi ... !!",
+            "topLevelCommentAuthor": {
+                "typename": "User",
+                "name": "Hassan Hassan Shah",
+                "gender": "MALE",
+                "url": "https://www.facebook.com/hassan.hassanshah.1232",
+                "isVerified": false
+            }
+        }
+    },
+    {
+        "id": "10160961621362182",
+        "creationTime": "2024-09-20T04:45:08.000Z",
+        "url": "https://www.facebook.com/ihsas.babarazam/posts/pfbid033aHQGiCJvFGrJop7KBdhnnxkWSRyW8HYGUWYUmzb9zqwVhXU375Bti2AYngddYx3l",
+        "text": null,
+        "postedBy": {
+            "__typename": "User",
+            "id": "513437181",
+            "name": "Ihsas Yousufzai",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/ihsas.babarazam"
+        },
+        "privacy": "friends",
+        "media": {
+            "id": null,
+            "caption": null,
+            "url": null
+        },
+        "engagement": {
+            "commentsCount": 1,
+            "reactionsCount": 13,
+            "topLevelComment": null,
+            "topLevelCommentAuthor": {
+                "typename": "Unknown",
+                "name": "Unknown",
+                "gender": "Unknown",
+                "url": "Unknown",
+                "isVerified": 0
+            }
+        }
+    }
+]

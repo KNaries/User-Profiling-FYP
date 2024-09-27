@@ -1,0 +1,24 @@
+/* style sheet for "Viewall page" */
+
+body {
+  background-color: #f8f9fa; /* Light pastel background */
+}
+
+.card {
+  border: 1px solid #ff9aa2; /* Soft pastel pink border */
+  border-radius: 10px; /* Rounded corners */
+  transition: box-shadow 0.3s ease; /* Transition effect for shadow */
+}
+
+.card:hover {
+  box-shadow: 0 4px 20px rgba(255, 154, 180, 0.5); /* Subtle shadow on hover */
+}
+
+h1 {
+  color: #ff6f61; /* Soft coral color */
+}
+
+h5 {
+  color: #6c757d; /* Muted color for headings */
+}
+

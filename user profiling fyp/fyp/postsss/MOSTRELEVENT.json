@@ -1,0 +1,76 @@
+{
+    "data": {
+        "feedback": {
+            "comment_rendering_instance": {
+                "comments": {
+                    "total_count": 8
+                }
+            },
+            "commenters": {
+                "count": 8,
+                "edges": [
+                    {
+                        "node": {
+                            "__typename": "User",
+                            "name": "Raja Muhammad Waqar",
+                            "id": "100090807498604"
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "User",
+                            "name": "Ch Sheraz Ahmad",
+                            "id": "100007562205282"
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "User",
+                            "name": "Yasir Awan",
+                            "id": "100012928593059"
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "User",
+                            "name": "Shahzad Aourangzeb",
+                            "id": "100010588479605"
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "User",
+                            "name": "Ahsan Abbasi",
+                            "id": "100000226934848"
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "User",
+                            "name": "Abdul Jabbar Rajput",
+                            "id": "100000753785012"
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "User",
+                            "name": "Jamshaid Jamal",
+                            "id": "100016142359212"
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "User",
+                            "name": "Ishaq Zafar Chaudhry",
+                            "id": "100006001514292"
+                        }
+                    }
+                ]
+            },
+            "id": "ZmVlZGJhY2s6NzQxOTQ1ODg0NDgyNzYyOA=="
+        }
+    },
+    "extensions": {
+        "is_final": true
+    }
+}
